@@ -79,7 +79,7 @@ Jupyter Notebook
 
 3. Ejecutar las celdas en orden para reproducir el análisis.
    
-Posibles Mejoras
+## Posibles Mejoras
 
 Implementar modelos de Machine Learning para predicción de churn
 
@@ -87,7 +87,7 @@ Crear dashboards interactivos con Power BI o Plotly
 
 Analizar variables adicionales para mejorar la predicción
 
-#Autor
+## Autor
 
 Juan Canchila
 
